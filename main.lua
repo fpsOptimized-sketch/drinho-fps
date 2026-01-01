@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/fpsOptimized-sketch/drinho-fps/refs/heads/main/real.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fpsOptimized-sketch/drinho-fps/main/real.lua"))()
